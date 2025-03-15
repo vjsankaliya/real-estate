@@ -60,4 +60,4 @@ Setup Instructions
             <td>Soft-delete a property and return deleted record</td>
         </tr>
     </tbody>
-</table>>
+</table>
